@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="but">
+    <button>Takip Etmeyi Unutmayın</button>
+</div>
+    <style>button {
+        border: none;
+        background: none;
+        color: #007bff;
+        position: relative;
+        font-size: 30px;
+        cursor: pointer;
+        margin-top: 20%;
+
+      }
+      button::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        background: #007bff;
+        left: 0;
+        bottom: 0;
+        transition: 0.3s;
+      }
+      button:hover::after {
+        width: 100%;
+      }
+      .but{
+        text-align: center;
+      }
+      </style>
+</body>
+</html>
