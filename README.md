@@ -42,7 +42,8 @@ Bu projeyi geliştirmek için öneri ve katkılara her zaman açığım! Bir ön
 
 ## 🌟 Destek Ol
 
-Eğer bu proje sana faydalı olduysa, yıldız vererek destek olmayı unutma ⭐️! Ayrıca, daha fazla içerik için [beni takip et](https://github.com/jerklex)(https://www.instagram.com/webin.muhendisi/).
+Eğer bu proje sana faydalı olduysa, yıldız vererek destek olmayı unutma ⭐️! Ayrıca, daha fazla içerik için [beni takip et](https://github.com/jerklex)
+[instagram](https://www.instagram.com/webin.muhendisi/).
 
 ---
 
